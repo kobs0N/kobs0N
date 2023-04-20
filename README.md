@@ -12,13 +12,6 @@
 </p>
 
 
-<h2>Latest Tweets</h2>
-<p>
-<a href="https://twitter.com/kobsoNinja">
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=kobsoNinja&layout=wide" alt="github-readme-twitter">
-</a>
-</p>
-
 <h2>GitHub Stats</h2>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=kobs0N&show_icons=true&theme=gotham" alt="GitHub Stats"></p>
