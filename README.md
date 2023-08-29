@@ -10,8 +10,3 @@
 <a href="https://www.linkedin.com/in/jacob-hazak-949456b4"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&height=25">
 </a>
 </p>
-
-
-<h2>GitHub Stats</h2>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=kobs0N&show_icons=true&theme=gotham" alt="GitHub Stats"></p>
