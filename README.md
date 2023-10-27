@@ -10,7 +10,7 @@ At Zero-Defense Labs, We stand as your unyielding shield in the digital battlefi
 
 Our unwavering determination drives us to excel at identifying and eradicating vulnerabilities, empowering you to confront and conquer every threat head-on.  
 
-👉 Let's stand together to bolster digital security and make the internet a fortress for all. ✔️  
+👉 Let's work together to bolster digital security and make the internet a fortress for all. ✔️  
 
 👇 Join us in our journey to fortify the digital realm. 🕵
 
